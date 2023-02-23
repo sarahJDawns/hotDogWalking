@@ -1,6 +1,6 @@
 ## Sample Website
 
-To demonstrate responsive design and Tailwind CSS. Any clicked links or buttons will send user to a coming soon page with an active javascript countdown clock.
+To demonstrate responsive design and Tailwind CSS. Any clicked links or buttons will send user to a coming soon page with an active JavaScript countdown clock.
 
 ### Built With
 
