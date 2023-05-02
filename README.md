@@ -4,7 +4,7 @@ Demonstrates responsive design and Tailwind CSS. Clicked links or buttons send u
 
 ---
 
-![img](images/hotDogWalkingSet.png)
+![img](images/hotDogWalkingSetA.png)
 
 ---
 
